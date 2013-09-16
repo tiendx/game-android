@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BomActivity!</string>
+    <string name="app_name">Bom Offline</string>
+
+    <string name="play">Play</string>
+    <string name="infor">Information</string>
+    <string name="exit">Exit</string>
+    
+    <string name="string_thoat">Bạn muốn thoát khỏi game?.</string>
+     <string name="string_gameover">Rất tiếc. Bạn đã thua.</string>
+    
+     <string name="string_thongtin">
+        NHÀ PHÁT TRIỂN \n\n
+		Họ và tên: Đặng Văn Giỏi \n
+		Trường: ĐH Hòa Bình \n
+		Ngày sinh: 6-9-1990 \n
+		Quê quán: Hòa Bình \n
+		Yahoo: gioicntk1@yahoo.com \n
+		Gmail: vangioicnt@gmail.com \n
+		Skype: vangioicnt \n
+		SĐT: 01663030145 \n\n</string>
+		
+     
+     <string name="string_chienthang">
+         Xin chúc mừng bạn.\n
+         Bạn đã vượt qua được tất cả các thử thách, những phần khó nhất bạn đã hoàn thành. Bạn là 1 người chơi rất 
+         giỏi và tuyệt vời. \n
+         Với phiên bản tiếp theo thì bạn sẽ phải chiến đấu với nhiều loại quái vật khác, mỗi
+         quái vật lại có những ưu và nhược điểm khác nhau.\n
+         Chúc bạn luôn có thời gian vui vẻ với game Bom offline.\n
+         \n
+         Thông tin liên hệ nhà phát triển:\n
+         Họ và Tên : Đặng Văn Giỏi\n
+         Ngày sinh: 6-9-1990\n
+         Yahoo: gioicntk1@yahoo.com\n
+         Skype: vangioicnt\n
+         Gmail: vangioicnt@gmail.com\n
+         \n
+         Xin chân thành cảm ơn.
+     </string>
+    
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+</resources>
